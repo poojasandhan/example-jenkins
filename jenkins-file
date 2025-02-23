@@ -6,6 +6,7 @@ steps {
   echo "how are you"
  sh "mkdir slave"
 echo "1st update in file"
+echo "pooja pavan"
 }
 }
 }
