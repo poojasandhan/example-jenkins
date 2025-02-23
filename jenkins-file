@@ -5,6 +5,7 @@ stage ("stage-1") {
 steps {
   echo "how are you"
  sh "mkdir slave"
+echo "1st update in file"
 }
 }
 }
